@@ -11,7 +11,8 @@
 
 
 .home{
-  background: url('images/bg.png');
+   background: url("images/bg.png") no-repeat
+    center;
 }
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
